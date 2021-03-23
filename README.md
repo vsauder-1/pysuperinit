@@ -1,5 +1,5 @@
 # pysuperinit
-Examination of Python super() with __init__(), overrides, multiple inheritance, and mixins.
+Examination of Python `super()` with `__init__()`, overrides, multiple inheritance, and mixins.
 
 * Simple - simple example overriding method
 * Diamond - Multiple inheritance with Diamond of Death
